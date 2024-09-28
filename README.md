@@ -3,8 +3,8 @@
 ### It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 ## Objectives
 * Perform basic data preprocessing in Python
-* Model a classification task using the Scikit-Learn and Snap ML Python APIs
-* Train Suppport Vector Machine and Decision Tree models using Scikit-Learn and Snap ML
+* Model a classification task using the Scikit-Learn 
+* Train Random Forest , Suppport Vector Machine and Decision Tree models 
 * Run inference and assess the quality of the trained models
 ## About Dataset
 * The dataset contains transactions made by credit cards in September 2013 by European cardholders.
